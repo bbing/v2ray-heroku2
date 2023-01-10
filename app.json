@@ -1,12 +1,12 @@
 {
-  "name": "Start on Heroku: v2ray",
-  "description": "Go Getting Started Example v2ray App",
+  "name": "vv",
+  "description": "vv",
   "keywords": [
     "getting-started",
     "v2ray",
     "sample",
     "example"
   ],
-  "website": "http://github.com/21967201/v2ray-heroku",
-  "repository": "http://github.com/21967201/v2ray-heroku"
+  "website": "https://github.com/bbing/v2ray-heroku2",
+  "repository": "https://github.com/bbing/v2ray-heroku2"
 }
